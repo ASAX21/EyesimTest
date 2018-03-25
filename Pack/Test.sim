@@ -1,5 +1,5 @@
 # Environment
-world /worldtest.wld
+world worldtest.wld
 
 # robotname x y phi
-LabBot 400 400  0 test.exe
+LabBot 400 400 0 test.exe
