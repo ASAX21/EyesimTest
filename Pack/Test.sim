@@ -2,4 +2,4 @@
 world /worldtest.wld
 
 # robotname x y phi
-LabBot 400 400  0 test.x
+LabBot 400 400  0 test.exe
